@@ -1,0 +1,7 @@
+6
+5 6 ^ true
+4 7 \ false
+6 6 A true
+5 7 6 false
+5 1 # true
+5 4000 * true
